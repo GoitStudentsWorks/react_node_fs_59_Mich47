@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/.github.io/react_node_fs_59_Mich47/static/css/main.9a3d35b4.css",
-    "main.js": "/.github.io/react_node_fs_59_Mich47/static/js/main.5afddf9e.js",
+    "main.js": "/.github.io/react_node_fs_59_Mich47/static/js/main.58902996.js",
     "static/js/941.0a50080d.chunk.js": "/.github.io/react_node_fs_59_Mich47/static/js/941.0a50080d.chunk.js",
     "static/js/911.990dfe34.chunk.js": "/.github.io/react_node_fs_59_Mich47/static/js/911.990dfe34.chunk.js",
     "static/js/161.e739a9e0.chunk.js": "/.github.io/react_node_fs_59_Mich47/static/js/161.e739a9e0.chunk.js",
@@ -43,7 +43,7 @@
     "index.html": "/.github.io/react_node_fs_59_Mich47/index.html",
     "static/media/logInIcon.svg": "/.github.io/react_node_fs_59_Mich47/static/media/logInIcon.a255be8977dff107049bccd8351f44a7.svg",
     "main.9a3d35b4.css.map": "/.github.io/react_node_fs_59_Mich47/static/css/main.9a3d35b4.css.map",
-    "main.5afddf9e.js.map": "/.github.io/react_node_fs_59_Mich47/static/js/main.5afddf9e.js.map",
+    "main.58902996.js.map": "/.github.io/react_node_fs_59_Mich47/static/js/main.58902996.js.map",
     "941.0a50080d.chunk.js.map": "/.github.io/react_node_fs_59_Mich47/static/js/941.0a50080d.chunk.js.map",
     "911.990dfe34.chunk.js.map": "/.github.io/react_node_fs_59_Mich47/static/js/911.990dfe34.chunk.js.map",
     "161.e739a9e0.chunk.js.map": "/.github.io/react_node_fs_59_Mich47/static/js/161.e739a9e0.chunk.js.map",
@@ -54,6 +54,6 @@
   },
   "entrypoints": [
     "static/css/main.9a3d35b4.css",
-    "static/js/main.5afddf9e.js"
+    "static/js/main.58902996.js"
   ]
 }
